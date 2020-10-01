@@ -74,7 +74,7 @@
 
 /* Responsive Break Points */
 
-$mobile-break      : 724px;
+$mobile-break      : 722px;
 $tablet-break      : $mobile-break + 1px;
 $desktop-break     : 960px      ;
 
@@ -85,7 +85,7 @@ $desktop-break     : 960px      ;
 (min-width: $tablet-break) and (max-width: $desktop-break) {
 
   .bars-container {
-      max-width: 725px;
+      max-width: 720px;
   }
 
   .hide-tablet {
